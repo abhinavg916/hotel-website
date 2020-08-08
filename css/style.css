@@ -28,7 +28,7 @@ p {
 
 /* Utility Class */
 
-/* Universal Class which are common through out the webpage */
+/* It is universal class which is common through out the webpage */
 
 .container {
     margin: auto;
@@ -58,6 +58,26 @@ p {
 .btn:hover {
     background: #f7c08A;
     color: #333;
+}
+
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-dark {
+    background: #333;
+    color: white;
+}
+
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary {
+    background: #333;
+    color: #f7c08A;
 }
 
 /* NavBar */
@@ -118,4 +138,30 @@ p {
 #showcase .showcase-content p {
     padding: 20px;
     line-height: 1.7em;
+}
+
+/* Home Info */
+
+#home-info {
+    height: 400px;
+}
+
+#home-info .info-img {
+    float: left;
+    width: 50%;
+    background: url("../img/person-1.jpg") no-repeat;
+    min-height: 100%;
+}
+
+#home-info .info-content {
+    float: right;
+    width: 50%;
+    height: 100;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+}
+
+#home-info .info-content p {
+    padding-bottom: 30px;
 }
