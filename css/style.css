@@ -46,7 +46,7 @@ p {
 }
 
 .btn {
-    display: inline;
+    display: inline-block;
     font-size: 18px;
     color: white;
     background: #333;
@@ -171,7 +171,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url("../img/person-1.jpg") no-repeat;
+    background: url("../img/photo-1.jpg") no-repeat;
     min-height: 100%;
 }
 
@@ -192,7 +192,7 @@ p {
 
 .box {
     float: left;
-    width: 33%;
+    width: 33.3%;
     padding: 50px;
     text-align: center;
 }
@@ -205,7 +205,7 @@ p {
 
 #about-info .info-right {
     float: right;
-    width: 50;
+    width: 50%;
     min-height: 100%;
 }
 
