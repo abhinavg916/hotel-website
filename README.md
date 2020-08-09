@@ -1,8 +1,5 @@
 # Hotel Website
 * Welcome to the most extraordinary hotel in Boston, Massachusetts
-* NOTE: 
-  * Use of CSS (Float)
-  * Not Responsive
 
 ## Tech Used
 * HTML
