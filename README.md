@@ -6,7 +6,12 @@
 * CSS 
 
 ## Previews
+* Web
+
 ![Welcome](https://github.com/abhinavg916/hotel-bt/blob/master/Preview/LQ/Hotel-BT-Welcome-min.png)
+
+* Mobile
+
 
 ## Author
 * Name - Abhinav
