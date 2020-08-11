@@ -10,7 +10,7 @@
 
 ![Welcome](https://github.com/abhinavg916/hotel-bt/blob/master/Preview/LQ/Hotel-BT-Welcome-min.png)
 
-* Mobile
+* Mobile (Responsive - Made using Media Queries)
 
 
 ## Author
