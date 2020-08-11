@@ -12,7 +12,7 @@
 
 * Mobile (Responsive - Made using Media Queries)
 
-![]()
+![Welcome on Mobile](https://github.com/abhinavg916/hotel-bt/blob/master/previews/LQ/Hotel-BT-Welcome-Mobile-View.png)
 
 ## Author
 * Name - Abhinav
