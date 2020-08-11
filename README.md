@@ -8,10 +8,11 @@
 ## Previews
 * Web
 
-![Welcome](https://github.com/abhinavg916/hotel-bt/blob/master/Preview/LQ/Hotel-BT-Welcome-min.png)
+![Welcome](https://github.com/abhinavg916/hotel-bt/blob/master/previews/LQ/Hotel-BT-Welcome-min.png)
 
 * Mobile (Responsive - Made using Media Queries)
 
+![]()
 
 ## Author
 * Name - Abhinav
