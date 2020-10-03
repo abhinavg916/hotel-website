@@ -1,5 +1,7 @@
 # Hotel Website
-* Welcome to the most extraordinary hotel in Boston, Massachusetts
+[![Netlify Status](https://api.netlify.com/api/v1/badges/773aa695-0e85-4fe8-ae34-66bd12bc201e/deploy-status)](https://app.netlify.com/sites/vigorous-lamport-ba4ab0/deploys)
+
+- View Demo - [Hotel](https://vigorous-lamport-ba4ab0.netlify.app/)
 
 ## Tech Used
 * HTML
