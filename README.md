@@ -20,6 +20,8 @@
 
 ![Welcome on Mobile](https://github.com/abhinavg916/hotel-bt/blob/master/previews/Mobile.png)
 
+---
+
 ## Author
 
 -   Name - Abhinav
